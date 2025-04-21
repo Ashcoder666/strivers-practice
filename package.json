@@ -1,0 +1,25 @@
+{
+  "name": "strivers-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts":"ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashcoder666/strivers-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashcoder666/strivers-practice/issues"
+  },
+  "homepage": "https://github.com/Ashcoder666/strivers-practice#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
